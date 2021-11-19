@@ -1,0 +1,16 @@
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp-Practice\Interfaces-Practice\Interfaces-Practice\bin\Debug\net5.0\Interfaces-Practice.exe
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp-Practice\Interfaces-Practice\Interfaces-Practice\bin\Debug\net5.0\Interfaces-Practice.deps.json
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp-Practice\Interfaces-Practice\Interfaces-Practice\bin\Debug\net5.0\Interfaces-Practice.runtimeconfig.json
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp-Practice\Interfaces-Practice\Interfaces-Practice\bin\Debug\net5.0\Interfaces-Practice.runtimeconfig.dev.json
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp-Practice\Interfaces-Practice\Interfaces-Practice\bin\Debug\net5.0\Interfaces-Practice.dll
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp-Practice\Interfaces-Practice\Interfaces-Practice\bin\Debug\net5.0\ref\Interfaces-Practice.dll
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp-Practice\Interfaces-Practice\Interfaces-Practice\bin\Debug\net5.0\Interfaces-Practice.pdb
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp-Practice\Interfaces-Practice\Interfaces-Practice\obj\Debug\net5.0\Interfaces-Practice.csproj.AssemblyReference.cache
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp-Practice\Interfaces-Practice\Interfaces-Practice\obj\Debug\net5.0\Interfaces-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp-Practice\Interfaces-Practice\Interfaces-Practice\obj\Debug\net5.0\Interfaces-Practice.AssemblyInfoInputs.cache
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp-Practice\Interfaces-Practice\Interfaces-Practice\obj\Debug\net5.0\Interfaces-Practice.AssemblyInfo.cs
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp-Practice\Interfaces-Practice\Interfaces-Practice\obj\Debug\net5.0\Interfaces-Practice.csproj.CoreCompileInputs.cache
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp-Practice\Interfaces-Practice\Interfaces-Practice\obj\Debug\net5.0\Interfaces-Practice.dll
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp-Practice\Interfaces-Practice\Interfaces-Practice\obj\Debug\net5.0\ref\Interfaces-Practice.dll
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp-Practice\Interfaces-Practice\Interfaces-Practice\obj\Debug\net5.0\Interfaces-Practice.pdb
+C:\Users\duduh\OneDrive\Área de Trabalho\Interface-CSharp-Practice\Interfaces-Practice\Interfaces-Practice\obj\Debug\net5.0\Interfaces-Practice.genruntimeconfig.cache
